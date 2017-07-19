@@ -18,8 +18,7 @@ NREADS=2
 
 # List of FASTQ files; must be named _1 _2 for paired-end,
 # unrestricted for unpaired
-FASTQ_FILES=SRR980481_1.fastq.gz
-SRR980481_2.fastq.gz
+FASTQ_FILES=SRR980481_1.fastq.gz SRR980481_2.fastq.gz
 # Everything else below is optional
 
 ## The species that this data is
